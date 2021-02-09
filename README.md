@@ -1,1 +1,1 @@
-Api feita em java para treinar spring.io
+Aplicação feita com Java(spring.io) e React.js
